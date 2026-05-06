@@ -1,0 +1,8 @@
+llm:
+  # OPENAI 格式兼容的 API Key
+  api_key: "sk-f9cf69761e954c79bd08ed824181437b"
+  # 模型名称
+  model: "deepseek-v4-flash"
+  
+  # 如果使用兼容 OpenAI 的其他服务 (如 DeepSeek, 阿里通义千问等)，请填写其 base_url
+  base_url: "https://api.deepseek.com"
